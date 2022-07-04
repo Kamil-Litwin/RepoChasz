@@ -27,11 +27,14 @@ namespace ProjektLekcja1
             //logiczne
             bool zmienna13 = 5>22;
             bool zmienna14 = 5 > 2 && 5 < 22;
+            //
+            const float PI = 3.14F; //stała const, musi posiadać wartość, nie można jej zmieniać w dalszym ciągu zadania.
             
             Console.WriteLine("hello world");
             Console.WriteLine(zmienna);
             Console.WriteLine(zmienna9);
             Console.WriteLine(zmienna14);
+            Console.WriteLine(PI);
             Console.ReadKey();
         }
     }

@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjektLekcja1", "ProjektLekcja1\ProjektLekcja1.csproj", "{3E25A926-4178-49A2-8A47-F37B68F76872}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lekcja2 operatory arytmetyczne i logiczne", "Lekcja2 operatory arytmetyczne i logiczne\Lekcja2 operatory arytmetyczne i logiczne.csproj", "{D0E003F6-84E5-492F-86F4-ED19ACEB722B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lekcja3 ifelse", "lekcja3 ifelse\lekcja3 ifelse.csproj", "{991E827D-3EE4-47C1-B6D8-68A918616E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lekcja4 petle", "lekcja4 petle\lekcja4 petle.csproj", "{66C3AA47-AECF-4232-97C9-69E6F55F0E5E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{3E25A926-4178-49A2-8A47-F37B68F76872}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3E25A926-4178-49A2-8A47-F37B68F76872}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3E25A926-4178-49A2-8A47-F37B68F76872}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E003F6-84E5-492F-86F4-ED19ACEB722B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E003F6-84E5-492F-86F4-ED19ACEB722B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E003F6-84E5-492F-86F4-ED19ACEB722B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E003F6-84E5-492F-86F4-ED19ACEB722B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{991E827D-3EE4-47C1-B6D8-68A918616E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{991E827D-3EE4-47C1-B6D8-68A918616E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{991E827D-3EE4-47C1-B6D8-68A918616E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{991E827D-3EE4-47C1-B6D8-68A918616E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66C3AA47-AECF-4232-97C9-69E6F55F0E5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66C3AA47-AECF-4232-97C9-69E6F55F0E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66C3AA47-AECF-4232-97C9-69E6F55F0E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66C3AA47-AECF-4232-97C9-69E6F55F0E5E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
