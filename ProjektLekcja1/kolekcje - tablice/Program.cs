@@ -139,6 +139,21 @@ namespace kolekcje___tablice
             //    Console.WriteLine();
             //}
 
+            //PRZYPOMINANIE SOBIE TABLIC
+            //int[,] tablica1 = new int[5,3];
+            //Random randomowaLiczba = new Random();
+
+
+            //for (int i = 0; i < tablica1.GetLength(0); i++)
+            //{
+            //    for (int j = 0; j < tablica1.GetLength(1); j++)
+            //    {
+            //        tablica1[i,j] = randomowaLiczba.Next(1, 100);
+            //        Console.Write(tablica1[i,j] + " ");
+            //    }
+            //    Console.WriteLine();
+            //}
+
             Console.ReadKey();
         }
     }
