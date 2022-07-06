@@ -7,7 +7,7 @@
     <ProjectGuid>{F3437629-79C2-4E04-8E1C-D19B99BD6646}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>funkcje_część_2</RootNamespace>
-    <AssemblyName>funkcje_część_2</AssemblyName>
+    <AssemblyName>funkcje część 2</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
