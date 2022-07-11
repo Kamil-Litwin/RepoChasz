@@ -41,8 +41,28 @@ namespace Przedszkolanka
     {
         static void Main(string[] args)
         {
-            int liczbaZestawow = int.Parse(Console.ReadLine());
-
+            int N = int.Parse(Console.ReadLine());
+            for (int i = 0; i < N; i++)
+            {
+                string tekst = Console.ReadLine();
+                string[] teksttab = tekst.Split(' ');
+                int mniejsza = int.Parse(teksttab[0]);
+                int wieksza = int.Parse(teksttab[1]);
+                int tmp;
+                if(mniejsza > wieksza)
+                {
+                    tmp = mniejsza;
+                    mniejsza = wieksza;
+                    wieksza = tmp;
+                }
+                int wynik = wieksza;
+                while (wynik % mniejsza != 0 || wynik % wieksza != 0)
+                {
+                    wynik += wieksza;
+                }
+                Console.WriteLine(wynik);
+            }
+            Console.ReadKey();
         }
     }
 }

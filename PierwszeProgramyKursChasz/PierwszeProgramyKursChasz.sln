@@ -11,6 +11,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LiczbyPierwsze", "LiczbyPie
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Przedszkolanka", "Przedszkolanka\Przedszkolanka.csproj", "{DFE2C75E-43D9-4BB1-A883-35372784A309}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kalendarz get set ćwiczenie", "Kalendarz get set ćwiczenie\Kalendarz get set ćwiczenie.csproj", "{2E838B8B-2BF8-437F-9D75-0DE825167CF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proste dodawani", "Proste dodawani\Proste dodawani.csproj", "{B0F23FD1-83EF-490F-89D3-467442A7E8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zabawne dodawnie piotrusia - palindrom", "Zabawne dodawnie piotrusia - palindrom\Zabawne dodawnie piotrusia - palindrom.csproj", "{FBC10CA4-D810-4014-ABC2-358A39D0D5A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Odwracanie wartości w tablicy", "Odwracanie wartości w tablicy\Odwracanie wartości w tablicy.csproj", "{34352004-CF8B-453C-A2C5-E46F1CF57136}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +41,22 @@ Global
 		{DFE2C75E-43D9-4BB1-A883-35372784A309}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFE2C75E-43D9-4BB1-A883-35372784A309}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFE2C75E-43D9-4BB1-A883-35372784A309}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E838B8B-2BF8-437F-9D75-0DE825167CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E838B8B-2BF8-437F-9D75-0DE825167CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E838B8B-2BF8-437F-9D75-0DE825167CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E838B8B-2BF8-437F-9D75-0DE825167CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0F23FD1-83EF-490F-89D3-467442A7E8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0F23FD1-83EF-490F-89D3-467442A7E8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0F23FD1-83EF-490F-89D3-467442A7E8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0F23FD1-83EF-490F-89D3-467442A7E8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FBC10CA4-D810-4014-ABC2-358A39D0D5A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBC10CA4-D810-4014-ABC2-358A39D0D5A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBC10CA4-D810-4014-ABC2-358A39D0D5A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBC10CA4-D810-4014-ABC2-358A39D0D5A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34352004-CF8B-453C-A2C5-E46F1CF57136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34352004-CF8B-453C-A2C5-E46F1CF57136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34352004-CF8B-453C-A2C5-E46F1CF57136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34352004-CF8B-453C-A2C5-E46F1CF57136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

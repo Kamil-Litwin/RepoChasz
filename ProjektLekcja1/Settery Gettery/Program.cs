@@ -13,7 +13,7 @@ namespace Settery_Gettery
             czlowiek kamil = new czlowiek();
             kamil.imie = "Kamil";
             kamil.WiekProperty = -30;//tu trafia set -> ustawia dane / wprowadza
-            kamil.WiekProperty = 20;
+            kamil.WiekProperty = -20;
             //kamil.setWiek(20);
             //kamil.setWiek(30);
 
