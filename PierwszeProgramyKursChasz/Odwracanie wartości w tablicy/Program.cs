@@ -10,6 +10,8 @@ namespace Odwracanie_wartości_w_tablicy
     {
         static void Main(string[] args)
         {
+
+            // jedno i drugie działa finalnie tak samo, nie wiadomo dlaczego nie przechodzi
             //int t = int.Parse(Console.ReadLine());
             //string[] n = new string[t];
 
